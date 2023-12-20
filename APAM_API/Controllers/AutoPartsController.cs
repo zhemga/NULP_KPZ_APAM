@@ -6,6 +6,7 @@ using System.Data.Entity.Infrastructure;
 using System.Linq;
 using System.Net;
 using System.Threading.Tasks;
+using System.Web;
 using System.Web.Http;
 using System.Web.Http.Description;
 
@@ -15,6 +16,15 @@ namespace APAM_API.Controllers
     public class AutoPartsController : ApiController
     {
         private APAM_APIContext db = new APAM_APIContext();
+
+        [HttpOptions]
+        [ResponseType(typeof(void))]
+        public IHttpActionResult Options()
+        {
+            HttpContext.Current.Response.AppendHeader("Allow", "GET, POST, PATCH, PUT, DELETE, OPTIONS");
+            HttpContext.Current.Response.AppendHeader("Content-type", "application/json;charset=UTF-8");
+            return Ok();
+        }
 
         // GET: api/AutoParts
         public List<AutoPart> GetAutoParts()

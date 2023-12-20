@@ -196,3 +196,8 @@ C:\Users\admin\source\repos\KPZ\APAM\APAM\APAM_API\bin\Microsoft.Owin.Security.x
 C:\Users\admin\source\repos\KPZ\APAM\APAM\APAM_API\bin\Microsoft.Owin.Security.Jwt.xml
 C:\Users\admin\source\repos\KPZ\APAM\APAM\APAM_API\bin\Microsoft.Owin.Security.OAuth.xml
 C:\Users\admin\source\repos\KPZ\APAM\APAM\APAM_API\bin\System.Web.Http.Owin.xml
+C:\Users\admin\source\repos\KPZ\APAM\APAM\APAM_API\bin\DevExpress.Data.v23.2.dll
+C:\Users\admin\source\repos\KPZ\APAM\APAM\APAM_API\bin\System.Web.Cors.dll
+C:\Users\admin\source\repos\KPZ\APAM\APAM\APAM_API\bin\System.Web.Http.Cors.dll
+C:\Users\admin\source\repos\KPZ\APAM\APAM\APAM_API\bin\DevExpress.Data.v23.2.xml
+C:\Users\admin\source\repos\KPZ\APAM\APAM\APAM_API\bin\System.Web.Http.Cors.xml

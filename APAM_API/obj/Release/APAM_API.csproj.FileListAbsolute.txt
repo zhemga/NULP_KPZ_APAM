@@ -196,3 +196,8 @@ C:\Users\admin\source\repos\KPZ\APAM\APAM\APAM_API\obj\Release\APAM_API.csproj.C
 C:\Users\admin\source\repos\KPZ\APAM\APAM\APAM_API\obj\Release\APAM_API.csproj.CopyComplete
 C:\Users\admin\source\repos\KPZ\APAM\APAM\APAM_API\obj\Release\APAM_API.dll
 C:\Users\admin\source\repos\KPZ\APAM\APAM\APAM_API\obj\Release\APAM_API.pdb
+C:\Users\admin\source\repos\KPZ\APAM\APAM\APAM_API\bin\System.Web.Cors.dll
+C:\Users\admin\source\repos\KPZ\APAM\APAM\APAM_API\bin\System.Web.Http.Cors.dll
+C:\Users\admin\source\repos\KPZ\APAM\APAM\APAM_API\bin\System.Web.Http.Cors.xml
+C:\Users\admin\source\repos\KPZ\APAM\APAM\APAM_API\bin\DevExpress.Data.v23.2.dll
+C:\Users\admin\source\repos\KPZ\APAM\APAM\APAM_API\bin\DevExpress.Data.v23.2.xml
